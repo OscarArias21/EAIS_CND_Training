@@ -1,0 +1,1 @@
+The purpose of this repository is to practice and take the EAIS course
